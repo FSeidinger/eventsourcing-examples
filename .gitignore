@@ -1,0 +1,6 @@
+# IntelliJ excludes
+.idea
+*.iml
+
+# Maven excludes
+target/
